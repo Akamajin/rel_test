@@ -7,7 +7,7 @@
   },
   "main": "index.js",
   "files": [
-    "components/**/*.tsx",
+    "components/**/*.jsx",
     "index.js"
   ]
 }
