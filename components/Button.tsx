@@ -14,7 +14,7 @@ const Button: React.FC<IButtonProps> = ({
 }) => {
   return (
     <button
-      className={`rounded-md bg-blue-600 text-white ${className}`}
+      className={`rounded-md bg-blue-600 text-black ${className}`}
       {...props}
       onClick={onClick}
     >
