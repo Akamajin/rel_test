@@ -1,2 +1,3 @@
-import {MyButton} from './components/button.jsx';
-export default MyButton;
+import Button from "./src/components/Button";
+
+export { Button };
